@@ -1,0 +1,53 @@
+[
+{
+  "id": 1,
+  "quize": "React is mainly used for?",
+  "FindAnswer":["Database","Connectivity","User interface","Design Platform"],
+  "RightAnswer":"User interface"
+},
+{
+  "id": 2,
+  "quize": "When ReactJS released?",
+  "FindAnswer":["Jun 2015","March 2014","March 2013","June 2014"],
+  "RightAnswer":"March 2014"
+},
+{
+  "id": 3,
+  "quize": "___ can be done while multiple elements need to be returned from a component.",
+  "FindAnswer":["Abstraction","Packing","Insulation"," Wrapping"],
+  "RightAnswer":"Wrapping"
+},
+
+
+{
+  "id": 4,
+  "quize": "Browsers read jsx",
+  "FindAnswer":["Yes","No","May be","None of above"],
+  "RightAnswer":"No"
+},
+{
+  "id": 5,
+  "quize": "In React what is used to pass data to a component from outside",
+  "FindAnswer":["setState","render with arguments","props","Props Types"],
+  "RightAnswer":"Props"
+},
+{
+  "id": 6,
+  "quize": "What advantages does ReactJS have?",
+  "FindAnswer":[" Increases the application’s performance with Virtual DOM"," JSX makes a code that is easy to read and write ","It renders both on client and server side","All of the above"],
+  "RightAnswer":"All of the above"
+},
+{
+  "id": 7,
+  "quize": "What disadvantages does ReactJS have?",
+  "FindAnswer":[" It is only a view layer. You have to plug your code for Ajax requests, events and so on.","The library is pretty large.","The learning curve can be slow.","All of the above options"],
+  "RightAnswer":"All of the above options"
+},
+{
+  "id": 8,
+  "quize": "Does ReactJS use HTML",
+  "FindAnswer":["JSX","Javascript","Yes","Use HTML"],
+  "RightAnswer":"JSX"
+}
+
+]
